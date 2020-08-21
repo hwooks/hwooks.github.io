@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-20T01:24:59+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hook’s Blog</title><subtitle>javascript react DevOps Docker Nginx golang blog</subtitle><author><name>JeongHaeWook</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-22T01:26:54+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hook’s Blog</title><subtitle>javascript react DevOps Docker Nginx golang blog</subtitle><author><name>JeongHaeWook</name><email>kower890@gmail.com</email></author><entry><title type="html">Golang 시작하기</title><link href="http://localhost:4000/golang/begin-golang/" rel="alternate" type="text/html" title="Golang 시작하기" /><published>2020-08-20T00:00:00+09:00</published><updated>2020-08-20T00:00:00+09:00</updated><id>http://localhost:4000/golang/begin-golang</id><content type="html" xml:base="http://localhost:4000/golang/begin-golang/">&lt;h2 id=&quot;title-should-not-overflow-the-content-area&quot;&gt;Title should not overflow the content area&lt;/h2&gt;
+
+&lt;p&gt;A few things to check for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Non-breaking text in the title, content, and comments should have no adverse effects on layout or functionality.&lt;/li&gt;
+  &lt;li&gt;Check the browser window / tab title.&lt;/li&gt;
+  &lt;li&gt;If you are a theme developer, check that this text does not break anything.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following CSS properties will help you support non-breaking text.&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;-ms-word-wrap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;break-word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;word-wrap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;break-word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>JeongHaeWook</name><email>kower890@gmail.com</email></author><category term="Golang" /><category term="content" /><category term="css" /><category term="edge case" /><category term="html" /><category term="layout" /><category term="title" /><summary type="html">Title should not overflow the content area</summary></entry></feed>
